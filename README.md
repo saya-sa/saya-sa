@@ -2,10 +2,6 @@
 
 # 🌿 Hello, I'm Saya
 
-TypeScript を中心に学習中です。
-
-UI / UX デザインにも興味があります。
-
 ---
 
 # ☁️ Featured Project
